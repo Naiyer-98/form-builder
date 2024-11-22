@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "0f1c",
+      "name": "Naiyer",
+      "email": "naiyer@gmail.com",
+      "password": "naiyer@!"
+    },
+    {
+      "id": "f9b7",
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "password": "alex@!"
+    }
+  ],
+  "forms": [
+    {
+      "id": "c55b",
+      "formName": "Developer Questions",
+      "questions": [
+        {
+          "question": "which language is your good ?",
+          "options": [
+            "Java",
+            "Python",
+            "React ",
+            "Java Script"
+          ],
+          "correctAnswer": "Java"
+        }
+      ]
+    },
+    {
+      "id": "45fc",
+      "formName": "Fruit",
+      "questions": [
+        {
+          "question": "Which fruit do you like most ?",
+          "options": [
+            "Banana",
+            "Apple",
+            "Grapes",
+            "Orange"
+          ],
+          "correctAnswer": "Grapes"
+        }
+      ]
+    },
+    {
+      "id": "27b1",
+      "formName": "Pizza Hub",
+      "questions": [
+        {
+          "question": "which pizza do you like most ?",
+          "options": [
+            "Peppy paneer ",
+            "Volcano peppy paneer",
+            "onion corn",
+            "Margherita"
+          ],
+          "correctAnswer": "Peppy paneer "
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ac28",
+      "question": "what is favourite color ?",
+      "options": [
+        "Black",
+        "White",
+        "Orange",
+        "Purple"
+      ],
+      "correctAnswer": "White"
+    }
+  ]
+}
